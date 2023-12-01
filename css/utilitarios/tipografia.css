@@ -1,0 +1,85 @@
+.font-1-xxl {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.125;
+}
+
+.font-1-xl {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.font-1-l {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.font-1-m {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.33;
+}
+
+.font-1-m-b {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  font-weight: 600;
+  line-height: 1.33;
+}
+
+.font-1-s {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.font-1-xs {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1.33;
+}
+
+.font-2-l {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.font-2-l-b {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-transform: uppercase;
+  letter-spacing: 0.36px;
+}
+
+.font-2-m {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 1.125rem;
+  font-weight: 500;
+  line-height: 1.33;
+}
+
+.font-2-s {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.font-2-xs {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
