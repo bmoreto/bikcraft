@@ -1,5 +1,16 @@
 @import url(./utilitarios/reset.css);
 @import url(./utilitarios/cores.css);
 @import url(./utilitarios/tipografia.css);
+
 @import url(./global/header.css);
 @import url(./global/footer.css);
+@import url(./global/global.css);
+
+@import url(./home/introducao.css);
+@import url(./home/tecnologia.css);
+@import url(./home/parceiros.css);
+@import url(./home/depoimento.css);
+
+@import url(./bicicletas/bicicletas-home.css);
+
+@import url(./seguros/seguros-home.css);

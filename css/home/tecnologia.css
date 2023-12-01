@@ -1,0 +1,27 @@
+.tecnologia-bg {
+  background: var(--cor-b);
+}
+
+.tecnologia-conteudo {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}
+
+.tecnologia-conteudo span {
+  margin-bottom: 20px;
+}
+
+.tecnologia-conteudo h2 {
+  margin-bottom: 32px;
+}
+
+.tecnologia-conteudo p {
+  margin-bottom: 20px;
+}
+
+.tecnologia-lista {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+}

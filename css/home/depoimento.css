@@ -1,0 +1,17 @@
+.depoimento-bg {
+  background: var(--cor-p1);
+}
+
+.depoimento {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.depoimento-conteudo {
+  padding: 40px 40px 80px 80px;
+  align-self: end;
+}
+
+.depoimento-conteudo span {
+  padding: 40px;
+}

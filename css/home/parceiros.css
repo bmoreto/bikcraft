@@ -1,0 +1,16 @@
+.parceiros h2 {
+  margin-bottom: 60px;
+}
+
+.parceiros-lista {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.parceiros-lista li {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 32px;
+}
