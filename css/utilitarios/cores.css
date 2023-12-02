@@ -75,9 +75,12 @@
   --gradiente2: linear-gradient(#ffb60d, #e59317);
   --cor-b: #000000;
   --cor-w: #ffffff;
+  --cor-2: #ededed;
   --cor-5: #b2b2b2;
+  --cor-9: #404040;
   --cor-10: #2e2e2e;
   --cor-11: #111111;
   --cor-p1: #ffbb00;
+  --cor-p2: #e4a30b;
   --cor-p5: #332200;
 }

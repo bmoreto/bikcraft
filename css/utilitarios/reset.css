@@ -2,10 +2,12 @@ body,
 h1,
 h2,
 h3,
+h4,
 p,
 a,
 li,
-ul {
+ul,
+blockquote {
   margin: 0px;
   padding: 0px;
 }
