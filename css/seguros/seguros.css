@@ -1,0 +1,16 @@
+#seguros h1 {
+  margin-bottom: 0px;
+}
+
+.vantagens-bg {
+  background: var(--cor-b);
+}
+.vantangens h2 {
+  margin-bottom: 60px;
+}
+
+.seguros-vantagens {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, max-content));
+  gap: 40px 80px;
+}
