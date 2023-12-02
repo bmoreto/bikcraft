@@ -34,13 +34,20 @@
   margin: auto;
 }
 
+@media (max-width: 1000px) {
+  .parceiros h2 {
+    margin-bottom: 30px;
+  }
+  .parceiros {
+    padding-bottom: 40px;
+  }
+}
+
 @media (max-width: 800px) {
   .parceiros {
-    padding-bottom: 60px;
+    padding-bottom: 40px;
   }
-  .parceiros h2 {
-    padding-bottom: 20px;
-  }
+
   .parceiros ul {
     grid-template-columns: 1fr 1fr;
   }

@@ -67,4 +67,7 @@
   .seguros {
     grid-template-columns: 1fr;
   }
+  .seguros {
+    padding-top: 30px;
+  }
 }
