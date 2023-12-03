@@ -7,6 +7,9 @@ p,
 a,
 li,
 ul,
+dd,
+dl,
+dt,
 blockquote {
   margin: 0px;
   padding: 0px;
