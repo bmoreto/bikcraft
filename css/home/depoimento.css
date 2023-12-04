@@ -1,5 +1,6 @@
 .depoimento-bg {
-  background: var(--cor-p1);
+  background: var(--cor-p1) url("/img/dec/bottom-right-p.svg") no-repeat bottom
+    40px right 40px;
 }
 
 .depoimento {
@@ -42,6 +43,12 @@
   height: 100%;
   object-fit: cover;
   border-radius: 0px;
+}
+
+@media (min-width: 1200px) {
+  .depomento img {
+    max-height: 520px;
+  }
 }
 
 @media (max-width: 800px) {
